@@ -1,0 +1,47 @@
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe.config
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.pdb
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation_MarkupCompile.cache
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation_MarkupCompile.lref
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.g.resources
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image_Segmentation.Properties.Resources.resources
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.GenerateResource.cache
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.exe
+C:\Users\Александр\Documents\Projects\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.pdb
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\App.g.cs
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation_MarkupCompile.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation_MarkupCompile.lref
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe.config
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.pdb
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.g.resources
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\ImageSegmentation.Properties.Resources.resources
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.GenerateResource.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.exe
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.pdb
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csprojAssemblyReference.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\View\MainWindow.g.cs
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\View\MainWindow.baml
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.exe
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.pdb
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe.config
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.pdb
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csprojAssemblyReference.cache
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\View\MainWindow.g.cs
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\App.g.cs
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation_MarkupCompile.cache
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation_MarkupCompile.lref
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\View\MainWindow.baml
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.g.resources
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\ImageSegmentation.Properties.Resources.resources
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.GenerateResource.cache
+C:\Users\north\Google Диск (suvorov.ak.pmail@gmail.com)\ВКР\Программы\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.CoreCompileInputs.cache

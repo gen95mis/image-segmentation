@@ -1,0 +1,15 @@
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\bin\x64\Debug\Image Segmentation.exe.config
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\bin\x64\Debug\Image Segmentation.exe
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\bin\x64\Debug\Image Segmentation.pdb
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation.csprojAssemblyReference.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\App.g.cs
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation_MarkupCompile.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation_MarkupCompile.lref
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\MainWindow.baml
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation.g.resources
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\ImageSegmentation.Properties.Resources.resources
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation.csproj.GenerateResource.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation.exe
+C:\Users\Александр\iCloudDrive\ВКР\Программы\Image Segmentation\Image Segmentation\obj\x64\Debug\Image Segmentation.pdb

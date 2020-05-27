@@ -1,0 +1,171 @@
+﻿<Window
+    x:Class="ImageSegmentation.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ImageSegmentation"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:ImageSegmentation.ViewModel"
+    Title="Image Segmentation"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+
+    <Window.DataContext>
+        <vm:MainWindowViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+        <!--#region Menu-->
+        <Menu
+            Grid.Row="0"
+            Grid.Column="0"
+            Grid.ColumnSpan="3">
+            <MenuItem Header="Файл">
+                <MenuItem Command="{Binding OpenCommand}" Header="Открыть" />
+                <MenuItem Command="{Binding}" Header="Сохранить" />
+                <Separator />
+                <MenuItem Header="Выход" />
+            </MenuItem>
+            <MenuItem Header="Справка">
+                <MenuItem Header="О продукте" />
+                <MenuItem Header="Об авторе" />
+            </MenuItem>
+        </Menu>
+        <!--#endregion-->
+
+
+        <!--#region File-->
+        <Button
+            Grid.Row="1"
+            Grid.Column="0"
+            Command="{Binding OpenCommand}"
+            Content="Открыть" />
+
+        <TextBlock
+            Grid.Row="1"
+            Grid.Column="1"
+            Grid.ColumnSpan="2"
+            Padding="5,0"
+            Background="#F3F3F3"
+            Text="{Binding Path=Path}" />
+        <!--#endregion-->
+
+
+        <!--#region Setting-->
+        <Grid Grid.Row="2" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30" />
+                <RowDefinition Height="25" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="25" />
+                <RowDefinition Height="25" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="20" />
+            </Grid.RowDefinitions>
+
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Content="Общие настройки"
+                FontSize="14"
+                FontWeight="Bold" />
+
+            <Label
+                Grid.Row="1"
+                Grid.Column="0"
+                Content="Количество областей" />
+            <TextBox
+                Grid.Row="1"
+                Grid.Column="1"
+                Padding="3"
+                Text="{Binding Path=CountClasters}"
+                TextAlignment="Center" />
+
+            <Label
+                Grid.Row="2"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Content="Настройки HMRF"
+                FontSize="14"
+                FontWeight="Bold" />
+
+            <Label
+                Grid.Row="3"
+                Grid.Column="0"
+                Content="Размер ядра Гаусса" />
+            <TextBox
+                Grid.Row="3"
+                Grid.Column="1"
+                Padding="3"
+                Text="{Binding Path=SizeKernalGauss}"
+                TextAlignment="Center" />
+
+            <Label
+                Grid.Row="4"
+                Grid.Column="0"
+                Content="Дисперсия для ядра" />
+            <TextBox
+                Grid.Row="4"
+                Grid.Column="1"
+                Padding="3"
+                Text="{Binding Path=SigmaKrnalGauss}"
+                TextAlignment="Center" />
+
+            <Button
+                Grid.Row="6"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Command="{Binding ProcessCommand}"
+                Content="Обработать" />
+        </Grid>
+        <!--#endregion-->
+
+
+        <!--#region Main Field-->
+        <TabControl Grid.Row="2" Grid.Column="1">
+
+            <TabItem Header="Исходное">
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="{Binding Path=Original}" />
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="KMeans">
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="{Binding Path=KMeans}" />
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="HMRF">
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="{Binding Path=HMRF}" />
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+        <!--#endregion-->
+
+
+    </Grid>
+</Window>
